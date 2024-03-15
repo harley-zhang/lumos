@@ -1,0 +1,118 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: #2a274d;
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+
+.App {
+  min-height: 100vh;
+  display: flex;
+}
+
+.sideBar {
+  flex: 3;
+  border-right: 1px solid white;
+}
+
+.main {
+  flex: 9;
+}
+
+.logo {
+  margin-right: 1rem;
+}
+
+.brand {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.upperSide {
+  padding: 2.5rem;
+  border-bottom: 1px solid white;
+  height: 70%;
+}
+
+.upperSideTop {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2.5rem;
+}
+
+.addBtn {
+  height: 2rem;
+  padding-right: 1rem;
+}
+
+.plus {
+  margin: 1rem;
+}
+
+.midBtn {
+  background: #5a4bff;
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  width: 90%;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  margin-bottom: 3rem;
+  border-radius: 0.5rem;
+}
+
+.query {
+  display: flex;
+  align-items: center;
+  background: transparent;
+  font-size: 1.5rem;
+  color: white;
+  padding: 1.5rem;
+  width: 90%;
+  margin: 1rem auto;
+  border-radius: 0.5rem;
+  border: 1px solid white;
+}
+
+.messageSquare {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  height: 1.75rem;
+  object-fit: cover;
+}
+
+.lowerSide {
+  padding: 2rem;
+}
+
+.listItems {
+  margin: .75rem;
+  display: flex;
+  align-items: center;
+  font-size: 1.3rem;
+}
+
+.listItemsIcons {
+  margin: 1rem;
+  padding-right: 2rem;
+}
+
+.listItems:nth-child(1)>.listItemsIcons {
+  margin-right: 0.5rem;
+}
+
+.listItems:nth-child(2)>.listItemsIcons {
+  margin-right: 0.75rem;
+}

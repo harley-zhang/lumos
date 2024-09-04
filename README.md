@@ -1,8 +1,8 @@
 # Lumos AI
 
 <div>
-  <img src="https://img.shields.io/badge/OpenAI API-%2374AA9C.svg?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/OpenAI API-%2374AA9C.svg?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
   
 ## Overview

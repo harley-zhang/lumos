@@ -7,7 +7,7 @@
   
 ## Overview
 
-Lumos AI is an personal assistant chatbot that uses OpenAI's davinci-002 model to handle queries.
+Lumos AI is an personal assistant chatbot that uses OpenAI's davinci-002 model to handle queries. Model since deprecated.
 
 ## Features
 
